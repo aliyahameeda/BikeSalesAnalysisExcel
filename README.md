@@ -1,14 +1,14 @@
 # Bike Sales Analysis
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes customer data to understand bike purchasing behavior using Excel.
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 - Relationship between number of cars and bike purchase  
 - Impact of home ownership on buying bikes  
 - Effect of number of children on purchasing decisions  
@@ -16,7 +16,7 @@ This project analyzes customer data to understand bike purchasing behavior using
 - Customer age range vs count of bike purchases  
 - Customer commute distance (in miles) vs count of bike purchases  
 
-## 📈 Key Insights
+##  Key Insights
 - Customers with different income levels show varying interest in buying bikes  
 - Male and female customers may have different purchasing patterns  
 - Middle-aged customers tend to have higher bike purchase counts  
