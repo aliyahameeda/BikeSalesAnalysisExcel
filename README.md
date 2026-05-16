@@ -24,5 +24,5 @@ This project analyzes customer data to understand bike purchasing behavior using
 - Family factors (children, home ownership) influence purchasing decisions  
 - Even customers with cars may still prefer bikes , but their preference for bikes decreases gradually as car count increases 
 
-## 📁 Files
+## Files
 - Excel.xlsx (Dataset and analysis)
