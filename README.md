@@ -12,7 +12,7 @@ This project analyzes customer data to understand bike purchasing behavior using
 - Relationship between number of cars and bike purchase  
 - Impact of home ownership on buying bikes  
 - Effect of number of children on purchasing decisions  
-- مقارنة income of male and female customers and their likelihood of buying a bike  
+- inccome of male and female customers and their likelihood of buying a bike  
 - Customer age range vs count of bike purchases  
 - Customer commute distance (in miles) vs count of bike purchases  
 
