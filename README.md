@@ -26,3 +26,6 @@ This project analyzes customer data to understand bike purchasing behavior using
 
 ## Files
 - Excel.xlsx (Dataset and analysis)
+
+- ## Conclusion
+This project shows how customer demographics and lifestyle factors influence bike purchasing decisions. It demonstrates the use of Excel for data analysis and visualization.
